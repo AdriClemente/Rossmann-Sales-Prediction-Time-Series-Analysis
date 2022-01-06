@@ -1,4 +1,4 @@
-# Sales Forecast for Rossmann Stores (Time Series + Telegram Bot)
+# Sales Forecast for Rossmann Stores using Time Series Analysis
 
 <img src="img/Rossmann_Schriftzug_mit_Centaur.jpg" alt="drawing" width="100%"/>
 
