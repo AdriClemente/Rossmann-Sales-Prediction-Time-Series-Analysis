@@ -1249,8 +1249,5 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 	
 ## 12. Próximos Passos
 
-- the best and the worst scenarios for the stores;
-- the total prediction (also the total best and worst scenarios);
-- display a chart;
-- request to more than on store;
-- display a 'wait' message while the request is made.
+- No segundo ciclo do CRISP-DM criar um projeto para prever a quantidade de clientes que estarão nas lojas nas próximas seis semana, com o objetivo de melhorar o desempenho do modelo;
+- Melhorar as mensagens e a interação com o usuário no Bot do Telegram.
