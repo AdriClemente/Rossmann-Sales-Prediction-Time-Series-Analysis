@@ -1248,3 +1248,9 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 --- 
 	
 ## 12. Próximos Passos
+
+- the best and the worst scenarios for the stores;
+- the total prediction (also the total best and worst scenarios);
+- display a chart;
+- request to more than on store;
+- display a 'wait' message while the request is made.
