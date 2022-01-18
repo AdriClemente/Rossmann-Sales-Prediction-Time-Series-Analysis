@@ -1251,5 +1251,5 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 	
 ## 12. Próximos Passos
 
-- No segundo ciclo do CRISP-DM criar um projeto para prever a quantidade de clientes que estarão nas lojas nas próximas seis semana, com o objetivo de melhorar o desempenho do modelo;
+- No segundo ciclo do CRISP-DM criar um projeto para prever a quantidade de clientes que estarão nas lojas nas próximas seis semanas, com o objetivo de melhorar o desempenho do modelo;
 - Melhorar as mensagens e a interação com o usuário no Bot do Telegram.
