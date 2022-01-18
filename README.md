@@ -1242,4 +1242,9 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	53- No aplicativo do Telegram deverá aparecer a seguinte mensagem: 	
 
           <img src="img/telegram_predictresponse.jpg" alt="drawing" width="50%"/>
+
 	
+	
+--- 
+	
+## 12. Próximos Passos
